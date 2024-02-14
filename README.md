@@ -6,7 +6,7 @@ I did use the following site as a basis for coding a dataset using the RandomOve
 
 Credit Risk Analysis Report
 
-This model takes existing data and trains a model to assess which features lead to good and bad loans. ot test the model, the X-test and Y-test data split he data, which leaves part of the data set aside to test the model on "new" data. 
+This model takes existing data and trains a model to assess which features lead to good and bad loans. Of test the model, the X-test and Y-test data split he data, which leaves part of the data set aside to test the model on "new" data. 
   * The model was 97.2% precise at determining which independent variables causes the dependent result - either a good or a bad loan.
   * The model's f1 accuary score was 99% 
   * The recall score for good loans was 99% and for predicting bad loans, it was 94%
